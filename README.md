@@ -22,13 +22,16 @@ El llenado de tanques no es automatizado.
 Se generan reboses y uso ineficiente del recurso hídrico.
 
 ## Problema integrador  
-En muchas viviendas urbanas de Lima Metropolitana, el almacenamiento de agua en tanques cisterna es una práctica común para asegurar el abastecimiento; sin embargo, no existe un sistema eficiente que permita realizar una dosificación adecuada de cloro ni un monitoreo continuo de la calidad del agua.  
-Esta situación provoca la posible proliferación de microorganismos, contaminación del agua y riesgos para la salud pública, además de un manejo ineficiente del recurso hídrico.
+En muchas comunidades rurales, el acceso al agua potable es gestionado por las Juntas Administradoras de Servicios de Saneamiento (JASS), las cuales se encargan del almacenamiento y distribución del recurso hídrico mediante tanques cisterna. Sin embargo, en estos sistemas no siempre se cuenta con mecanismos adecuados para la dosificación controlada de cloro ni con herramientas de monitoreo continuo de la calidad del agua.  
 
+Esta situación puede generar una desinfección ineficiente, la proliferación de microorganismos y la posible presencia de contaminantes, afectando la calidad del agua y representando un riesgo para la salud pública. Además, la falta de control técnico limita una gestión eficiente y sostenible del recurso hídrico en estas comunidades.
+ 
 ## Presentación de la solución  
-Se propone el **diseño e implementación de un sistema de dosificación de cloro en tanques cisterna para el tratamiento de agua potable en viviendas urbanas de Lima Metropolitana**.  
+Se propone el **diseño e implementación de un sistema de dosificación de cloro en tanques cisterna para el tratamiento de agua potable dirigido a comunidades rurales gestionadas por Juntas Administradoras de Servicios de Saneamiento (JASS)**.  
 
-Este sistema integrará sensores para el monitoreo de parámetros como la calidad del agua y un mecanismo automatizado de dosificación de cloro, permitiendo mantener niveles adecuados de desinfección. Asimismo, contará con un sistema de alertas que facilite el control oportuno, contribuyendo a mejorar la calidad del agua, prevenir enfermedades y optimizar la gestión del recurso hídrico.
+Este sistema integrará sensores para el monitoreo de parámetros como el pH, la turbidez y la temperatura del agua, junto con un mecanismo automatizado de dosificación de cloro, permitiendo mantener niveles adecuados de desinfección en sistemas de abastecimiento comunitario.  
+
+Asimismo, contará con un sistema de alertas que facilite a los operadores de la JASS el control oportuno de la calidad del agua, contribuyendo a mejorar la salud pública, prevenir enfermedades y fortalecer la gestión comunitaria del recurso hídrico en zonas rurales.
 ## El sistema precisará de :
 
 🔹Monitoreo de calidad del agua
