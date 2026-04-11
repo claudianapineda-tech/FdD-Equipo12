@@ -29,7 +29,7 @@ Esta situación puede generar una desinfección ineficiente, la proliferación d
 ## Presentación de la solución  
 Se propone el **diseño e implementación de un sistema de dosificación de cloro en tanques cisterna para el tratamiento de agua potable dirigido a comunidades rurales gestionadas por Juntas Administradoras de Servicios de Saneamiento (JASS)**.  
 
-Este sistema integrará sensores para el monitoreo de parámetros como el pH, la turbidez y la temperatura del agua, junto con un mecanismo automatizado de dosificación de cloro, permitiendo mantener niveles adecuados de desinfección en sistemas de abastecimiento comunitario.  
+Este sistema integrará sensores para el monitoreo de parámetros como el pH, la turbidez y nivel del agua junto con un mecanismo automatizado de dosificación de cloro, permitiendo mantener niveles adecuados de desinfección en sistemas de abastecimiento comunitario.  
 
 Asimismo, contará con un sistema de alertas que facilite a los operadores de la JASS el control oportuno de la calidad del agua, contribuyendo a mejorar la salud pública, prevenir enfermedades y fortalecer la gestión comunitaria del recurso hídrico en zonas rurales.
 ## El sistema precisará de :
