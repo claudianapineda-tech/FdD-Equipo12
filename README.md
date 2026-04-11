@@ -21,12 +21,14 @@ Falta de control y desperdicio de agua
 El llenado de tanques no es automatizado.
 Se generan reboses y uso ineficiente del recurso hídrico.
 
-## Problema integrador
-Aunque los tanques de agua son esenciales en los hogares, no existe un sistema que permita detectar a tiempo la contaminación invisible del agua ni prevenir el mal uso del recurso, lo que genera riesgos sanitarios y desperdicio.
+## Problema integrador  
+En muchas viviendas urbanas de Lima Metropolitana, el almacenamiento de agua en tanques cisterna es una práctica común para asegurar el abastecimiento; sin embargo, no existe un sistema eficiente que permita realizar una dosificación adecuada de cloro ni un monitoreo continuo de la calidad del agua.  
+Esta situación provoca la posible proliferación de microorganismos, contaminación del agua y riesgos para la salud pública, además de un manejo ineficiente del recurso hídrico.
 
-##  Presentación de la solución
-Se propone un sistema inteligente para tanques de agua domésticos que integra monitoreo de calidad del agua, control de llenado y sistema de alertas automáticas.
+## Presentación de la solución  
+Se propone el **diseño e implementación de un sistema de dosificación de cloro en tanques cisterna para el tratamiento de agua potable en viviendas urbanas de Lima Metropolitana**.  
 
+Este sistema integrará sensores para el monitoreo de parámetros como la calidad del agua y un mecanismo automatizado de dosificación de cloro, permitiendo mantener niveles adecuados de desinfección. Asimismo, contará con un sistema de alertas que facilite el control oportuno, contribuyendo a mejorar la calidad del agua, prevenir enfermedades y optimizar la gestión del recurso hídrico.
 ## El sistema precisará de :
 
 🔹Monitoreo de calidad del agua
