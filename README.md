@@ -41,10 +41,10 @@ Asimismo, contará con un sistema de alertas que facilite a los operadores de la
 ## El sistema sigue los pasos:
 
 🔹Monitoreo de nivel del tanque:
-El sistema inicia con la medición del nivel de agua, mediante un sensor que determina la cantidad de agua almacenada en el tanque. Esta información permite conocer el volumen disponible y evitar errores en la dosificación, como operar sin agua o sobredosificar.
+ El sistema inicia con la medición del nivel de agua, mediante un sensor que determina la cantidad de agua almacenada en el tanque. Esta información permite conocer el volumen disponible y evitar errores en la dosificación, como operar sin agua o sobredosificar.
 
 🔹Monitoreo de calidad del agua:
-El sistema analiza la calidad del agua mediante sensores de:
+ El sistema analiza la calidad del agua mediante sensores de:
 - pH (condición química del agua)
   El sistema verifica el nivel de acidez o alcalinidad del agua.
 Para que la desinfección con cloro sea eficaz, se considera que el pH debe ser menor a 8, ya que en ese rango el cloro mantiene una mayor eficiencia desinfectante.
@@ -53,7 +53,7 @@ Para que la desinfección con cloro sea eficaz, se considera que el pH debe ser 
 Estos parámetros permiten determinar si el agua es apta, está en estado de alerta o no es apta para consumo, evaluando cambios en tiempo real.
 
 🔹Procesamiento y control (Arduino):
-Toda la información de los sensores es enviada a un Arduino, que procesa los datos y toma decisiones automáticas según las condiciones del sistema:
+ Toda la información de los sensores es enviada a un Arduino, que procesa los datos y toma decisiones automáticas según las condiciones del sistema:
 - Evalúa la calidad del agua
 - Verifica el nivel del tanque
 - Determina si se requiere dosificación de cloro o generación de alerta
