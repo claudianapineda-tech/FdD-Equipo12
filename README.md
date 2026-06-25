@@ -93,7 +93,7 @@ El proyecto contribuye al ODS 3 ya que este mecanismo reduce la proliferación d
 
 ## 📸 Fotografía del Equipo  
 <p align="center">
-<img width="1408" height="768" alt="imagen_alumnos_IA" src="Recursos/Imágenes/imagen grupal .jpeg" />
+<img width="1408" height="768" alt="imagen_alumnos_IA" src="Recursos/Imágenes/Imagen Grupal.jpeg" />
   <em>Figura 1. Fotografía del equipo 12</em>
 </p>
 
@@ -103,11 +103,11 @@ El proyecto contribuye al ODS 3 ya que este mecanismo reduce la proliferación d
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="/Recursos/Imágenes/ArianaCortez.jpg" width="90"/> | **Ariana Cortéz** | Líder del equipo | Innovación social, sostenibilidad. |
-| <img src="/Recursos/Imágenes/Luis.jpeg" width="90"/> | **Luis Huaccha** | Responsable de investigación | Gestión ambiental, desarrollo comunitario. |
-| <img src="Recursos/Imágenes/70589968.jpg" width="90"/> | **Dulce Huicho** | Diseñadora | Diseño de prototipos, creatividad visual y enfoque ambiental. |
-| <img src="/Recursos/Imágenes/claudiana.jpeg" width="90"/> | **Claudiana Pineda** | Encargada de documentación | Comunicación científica, redacción técnica. |
-| <img src="/Recursos/Imágenes/renato.jpeg" width="90"/> | **Giacomo Jimenez** | Programador - Modelador | Programación, análisis de datos, simulación. |
+| <img src="/Recursos/Imágenes/Ariana Cortez.jpg" width="90"/> | **Ariana Cortéz** | Líder del equipo | Innovación social, sostenibilidad. |
+| <img src="/Recursos/Imágenes/Luis Huaccha.jpeg" width="90"/> | **Luis Huaccha** | Responsable de investigación | Gestión ambiental, desarrollo comunitario. |
+| <img src="Recursos/Imágenes/Dulce Huicho.jpg" width="90"/> | **Dulce Huicho** | Diseñadora | Diseño de prototipos, creatividad visual y enfoque ambiental. |
+| <img src="/Recursos/Imágenes/Claudiana Pineda.jpeg" width="90"/> | **Claudiana Pineda** | Encargada de documentación | Comunicación científica, redacción técnica. |
+| <img src="/Recursos/Imágenes/Renato Jimenez.jpeg.jpeg" width="90"/> | **Giacomo Jimenez** | Programador - Modelador | Programación, análisis de datos, simulación. |
 
 ---
 
