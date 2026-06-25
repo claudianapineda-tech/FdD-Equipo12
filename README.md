@@ -103,7 +103,7 @@ El proyecto contribuye al ODS 3 ya que este mecanismo reduce la proliferación d
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="/Recursos/Imágenes/60885051.jpg" width="90"/> | **Ariana Cortéz** | Líder del equipo | Innovación social, sostenibilidad. |
+| <img src="/Recursos/Imágenes/ArianaCortez.jpg" width="90"/> | **Ariana Cortéz** | Líder del equipo | Innovación social, sostenibilidad. |
 | <img src="/Recursos/Imágenes/Luis.jpeg" width="90"/> | **Luis Huaccha** | Responsable de investigación | Gestión ambiental, desarrollo comunitario. |
 | <img src="Recursos/Imágenes/70589968.jpg" width="90"/> | **Dulce Huicho** | Diseñadora | Diseño de prototipos, creatividad visual y enfoque ambiental. |
 | <img src="/Recursos/Imágenes/claudiana.jpeg" width="90"/> | **Claudiana Pineda** | Encargada de documentación | Comunicación científica, redacción técnica. |
