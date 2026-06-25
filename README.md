@@ -107,7 +107,7 @@ El proyecto contribuye al ODS 3 ya que este mecanismo reduce la proliferación d
 | <img src="/Recursos/Imágenes/Luis Huaccha.jpeg" width="90"/> | **Luis Huaccha** | Responsable de investigación | Gestión ambiental, desarrollo comunitario. |
 | <img src="Recursos/Imágenes/Dulce Huicho.jpg" width="90"/> | **Dulce Huicho** | Diseñadora | Diseño de prototipos, creatividad visual y enfoque ambiental. |
 | <img src="/Recursos/Imágenes/Claudiana Pineda.jpeg" width="90"/> | **Claudiana Pineda** | Encargada de documentación | Comunicación científica, redacción técnica. |
-| <img src="/Recursos/Imágenes/Renato Jimenez.jpeg.jpeg" width="90"/> | **Giacomo Jimenez** | Programador - Modelador | Programación, análisis de datos, simulación. |
+| <img src="/Recursos/Imágenes/Renato Jimenez.jpeg" width="90"/> | **Giacomo Jimenez** | Programador - Modelador | Programación, análisis de datos, simulación. |
 
 ---
 
